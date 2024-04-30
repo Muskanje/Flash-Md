@@ -36,7 +36,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://faisal-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -64,4 +64,4 @@
 - [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **Faisal-udas 923037484167**
