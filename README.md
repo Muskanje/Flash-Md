@@ -61,7 +61,7 @@
 ***
 
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
+- [***Fortunatus Mokaya***]([https://github.com/Fortunatusmokaya](https://github.com/Muskanje/Flash-Md/blob/main/README.md)) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **Faisal-udas 923037484167**
